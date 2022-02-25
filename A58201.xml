@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To my honoured friend Mr. M.T. one of the committee chosen by the Common Council of London, for the insuring of houses from fire</title>
+            <author>L. R.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58201</idno>
+            <idno type="STC">Wing R43</idno>
+            <idno type="STC">ESTC R220645</idno>
+            <idno type="EEBO-CITATION">99832041</idno>
+            <idno type="PROQUEST">99832041</idno>
+            <idno type="VID">36509</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58201)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36509)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2055:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To my honoured friend Mr. M.T. one of the committee chosen by the Common Council of London, for the insuring of houses from fire</title>
+                  <author>L. R.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: L.R.</note>
+                  <note>Caption title.</note>
+                  <note>Part of a controversy between the City of London and the Insurance Office for Houses; related documents are dated late 1681.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Insurance Office for Houses (London, England) --  Early works to 1800.</term>
+               <term>City of London (England). --  Court of Common Council --  Early works to 1800.</term>
+               <term>Insurance, Fire --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:36509:1" rendition="simple:additions"/>
+            <head>To my Honoured Friend Mr. <hi>M. T.</hi> one of the Commit<g ref="char:EOLhyphen"/>tee choſen by the <hi>Common Council of London,</hi> for the <hi>Inſuring</hi> of Houſes from <hi>Fire.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOurs I received, together with the Encloſed Papers about the Under<g ref="char:EOLhyphen"/>taking of ſome private Perſons for the Inſuring your Houſes in the City from Fire; and according to your Requeſt, ſhall give you my Sentiments concerning this matter; which tho others that know to what a Maſter of Reaſon I write, may call it <hi>Preſumption,</hi> yet your Commands have made it <hi>Duty and Obedience.</hi> I could not but wonder that when you and the other Magiſtrates of the City were conſulting about this Affair, what pretence a few <hi>Forreigners</hi> and <hi>private</hi> Men could have to chop in, and ſet on foot the ſame Deſign which you were managing, not only without, but alſo directly againſt your conſent. For tho they pretend that they were the firſt Inventers of it, and therefore pleaſe themſelves with a fond Conceit that the wiſdom of the Parliament will allow them the ſole injoyment thereof for a conſiderable time, if not for full Fourteen years; yet it is ſufficiently known that this Affair was propounded in your <hi>Common Council</hi> as early as <hi>Febr.</hi> 1670. long before ever it entred into their thoughts, and ever ſince from time to time continued under Conſideration how it might be moſt effectually put in Practice. So that 'tis plain, theſe Gentlemen have lighted their Taper at your Fire, and that in more Senſes than one they are <hi>building on other mens grounds.</hi>
+            </p>
+            <p>But if they had been the firſt Inventers of this Deſign, yet I doubt not but I ſhall make it evident, that it is far more for the Publick Good that the City ſhould be en<g ref="char:EOLhyphen"/>truſted with the management of it, than theſe or any other private men; Becauſe,
+(1.) the City can ſettle a better Security; (2.) 'tis more reaſonable the City ſhould injoy the Profits ariſing from it; (3.) it would be of ill conſequence to entruſt theſe private Perſons and Forreigners with the management of it; and (4.) it would be no prejudice to the City or Citizens to have it in their own hands.</p>
+            <p>
+               <hi>Firſt,</hi> The City can ſettle a better Security or Fund for enſuring Houſes than theſe Perſons have or can. 'Tis ſufficiently known that the <hi>City of London</hi> is already poſſeſt of <hi>Ground-rents</hi> to a great value, of a clear Title, and free from all manner of <hi>Incum<g ref="char:EOLhyphen"/>brances,</hi> and can when they will augment the ſame, in manner and meaſure, far be<g ref="char:EOLhyphen"/>yond what theſe or any other <hi>private men</hi> can reach to. And whereas they propoſe <hi>Lands and Ground-rents</hi> to the value of but Thirty thouſand pounds, <hi>the City hath reſolved that Lands and Ground-rents, to the value of One hundred thouſand pounds at leaſt, ſhall be forthwith ſettled;</hi> and likewiſe the <hi>Praemium,</hi> as an additional Fund, ſhall be ſoon after ſettled to enſure <hi>Houſes ſubſcribed for,</hi> upon <hi>Truſtees</hi> of ſome of the <hi>Princi<g ref="char:EOLhyphen"/>pal Citizens,</hi> choſen by the Enſured from among themſelves, which Truſtees ſhall be obliged by their Hand and Seal, each of them to the Enſured, for the payment of their Loſſes and ſatisfaction of Damages, in caſe the ſame be not immediately performed by the <hi>Chamber,</hi> where will always be a <hi>conſiderable Bank.</hi> The diviſion therefore of <hi>Securities into Real, Perſonal, and the Seal of a Corporation by the Authour of the Enqui<g ref="char:EOLhyphen"/>ry,</hi> &amp;c. was very impertinent; for there was no intention to practice the ſtrength of the City Seal at all, but only in ſettling the Ground-rents on the Truſtees, as to which the Enquirer himſelf will not Queſtion its validity. But the Enſured are to have their Security from the Truſtees, for their Damages if their Houſes ſhould be burnt; for the Recovery of which, there is no need (as the Enquirer pretends) of commence<g ref="char:EOLhyphen"/>ing a tedious Suit with the City, but they may immediately have Relief in Equity up<g ref="char:EOLhyphen"/>on the Fund, as in all other Truſts whatſoever. The clearneſs of which Fund, I hope the Enquirer will not have the impudence to call in queſtion. And ſure there's none but will believe it to be a better Security than any that can be given, either by a per<g ref="char:EOLhyphen"/>ſon
+<pb n="2" facs="tcp:36509:2"/>whoſe Chamber-door daily ſuffers an <hi>Aſſault</hi> and <hi>Battery,</hi> from a whole <hi>poſſe</hi> of Bricklayers, Carpenters, Maſons, <hi>&amp;c.</hi> and who, if one may judge by the ſeveral Acti<g ref="char:EOLhyphen"/>ons of Debt that every Term are brought againſt him, is in a fair way to Retire for Refuge into one of his own Chambers, which he hath built in the <hi>Temple;</hi> or by one, who tho he may be thought to be ſhot up into ſome conſiderable height from a low and ordinary Condition (as <hi>Ruſhes</hi> do from <hi>Mud</hi>) yet is every day lyable to be called to an Account for Male-adminiſtration of a Publick Office: and if he ſhould be found to be in Arrears to his Majeſty, even thoſe Lands or Ground-rents which he offers as a Security, would be ſeized in the behalf of his Majeſty. I know indeed the Enquirer pretends <hi>the Security would be better, as ſettled in private Perſons, than in the hands of the City.</hi> His Arguments I ſhall conſider, and anſwer, as</p>
+            <p>Firſt, <hi>He pretends the Deſign will be better managed by the private Perſons, becauſe mens Credit, Care, and Induſtry will be more concerned to preſerve Private Intereſt than Publick, and ſo Fires will be better prevented and extinguiſh't.</hi> But to this I anſwer, ſad Experience ſhews us that Eſtates and Publick Revenues which have been committed to the care of a few private Perſons, have been miſerably perverted; but where have any been more carefully and faithfully applyed, than thoſe that have been entruſted with the <hi>Chamber of London?</hi> 'Tis but too often ſeen, that a man by leaving his Children to the care of two or three private Guardians, hath in effect as fatally expoſed them, as ſome did of old to ravenous and devouring Beaſts, that have made a Prey of them; that have ſpent their Portions for them: or at beſt, when they have beſtowed them in Marriage, have made a <hi>Match</hi> for them, and a <hi>Bargain</hi> for themſelves. Thoſe Hoſpitals, for the moſt part, that are in the hands of private Gentlemen, are but ſadly looked after; for they are uſually made <hi>Lodges</hi> for their <hi>Porters, Stables</hi> for their <hi>foundred Grooms, &amp;c.</hi> So that the <hi>Hoſpitals</hi> themſelves are become the <hi>objects of Charity,</hi> whereas thoſe Orphans that are looked after by the <hi>City</hi> of <hi>London,</hi> have their Eſtates preſerved and duly paid; and the Revenues of thoſe Hoſpitals which the <hi>City</hi> inſpects, are laid out for thoſe Pious purpoſes for which they were given.</p>
+            <p>Beſides, the Revenues for the maintaining of <hi>London-Bridge</hi> are husbanded by the <hi>City</hi> with all the care and prudence imaginable; but if they were in the hands of theſe pri<g ref="char:EOLhyphen"/>vate Gentlemen, I am afraid the <hi>Decays</hi> of that <hi>Bridge</hi> would not be ſo much repaired as thoſe of their own <hi>Eſtates.</hi> Further, Late Acts of <hi>Parliament</hi> have entruſted the <hi>Chamber of London</hi> with the Money for building of Churches, Disbanding the late Ar<g ref="char:EOLhyphen"/>my, &amp;c. And if the choice of Truſtees for any of theſe purpoſes were now to be made, who would prefer theſe <hi>private</hi> Perſons before the <hi>City?</hi> I doubt not but the <hi>City</hi> would be as diligent, faithful, and induſtrious in this Affair <hi>of quenching Fires,</hi> as it muſt be acknowledged to be in all the forementioned Particulars.</p>
+            <p>But Secondly, <hi>The Enquirer pretends that the payment of Loſſes, and ſatisfaction of Da<g ref="char:EOLhyphen"/>mages, will be eaſier and ſooner diſpatched by the Office of theſe private men, than by the City, becauſe of the Attendance on the Court of Aldermen or Committees.</hi> But to this I anſwer; The City have erected an <hi>Office,</hi> where there ſhall be conſtant attendance, and ready diſpatch given. And I dare ſay this Office, erected by the City, ſhall pay the Loſſes of thoſe whoſe Houſes are <hi>burnt down</hi> ſooner than this Enquirer ſhall the wages of thoſe that <hi>built his up.</hi>
+            </p>
+            <p>Thirdly, <hi>Saith the Enquirer, a private perſon muſt part with all to ſatisfie his Debts, but in any great loſs the City will rather have Private Concerns ſuffer than the Publick.</hi> To which I anſwer, There is more reaſon to fear that theſe private Perſons, in ſuch a Caſe, will <hi>inſure themſelves</hi> inſtead of their <hi>Creditors.</hi> They are more likely than the <hi>City</hi> to be re<g ref="char:EOLhyphen"/>duced to ſuch an Exigence, as to be forced to break or compound. A little <hi>leaky Skuller</hi> ſure is more in danger of ſinking in the wide Seas, than a large, beautiful and well-built Ship. Beſides, the nature of the Security propoſed by the City, deſtroys the foundation of this Argument; which laſt Conſideration will ſerve as an Anſwer to the Fourth Argument alſo, <hi>That if the City refufe to pay the Loſs, the Remedy is not ſo Eaſie againſt them as againſt Private Perſons;</hi> for the Party aggriev'd is not to ſue the City, but may have Relief immediately in Equity, upon the Fund, as aforeſaid.</p>
+            <pb n="3" facs="tcp:36509:2"/>
+            <p>Thus it appears, that the <hi>City</hi> can ſettle a better Security or Fund for Inſuring Houſes, than theſe Private Perſons have or can.</p>
+            <p>The Second Reaſon why the City, and not theſe Private Perſons ſhould Inſure Houſes, is, becauſe it is more reaſonable the City ſhould enjoy the Profits ariſing from their own Citizens, than theſe Forreigners or out-lying Deer. The Enquirer indeed objects, That the Profit of Inſuring will not be ſo conſiderable as the City may ima<g ref="char:EOLhyphen"/>gine; but 'tis very well known, the Primary intention of the City (though we may eaſily judge what the Inquirers) in Inſuring, is not to rake together a mighty maſs of Money, but the Security of every particular Citizens Houſe, and of the whole City in general; and this being effectually provided for, the City is content, let the Pro<g ref="char:EOLhyphen"/>fit of this Undertaking be as little as the Enquirer pretends, or leſs; but how little ſoever it be, I am ſure 'tis too much for one that hath made it his buſineſs to run up a multitude of Houſes, in the adjacent parts, as if he were reſolved to drain the City of its Inhabitants and Trade. I think I may too truly ſay, He hath done almoſt as much prejudice to the City by <hi>building</hi> Houſes, as the Papiſts by <hi>firing</hi> them.</p>
+            <p>The Third Reaſon why I cannot grant theſe Private Perſons ſhould Inſure, is, becauſe it would be very much to the prejudice of <hi>London</hi> if they ſhould: For,</p>
+            <p>Firſt, I am very well ſatisfied, that the City of <hi>London</hi> have under their preſent Conſideration the making of certain Engines, &amp;c. for the quenching of Fire; which, as they will be far more uſeful for the Publick than any that hath yet been invented, ſo they will be by much too Chargable for theſe Private Perſons to provide themſelves withal, and 'tis but reaſonable the City ſhould have the Profit of this Undertaking, that ſo they may receive no prejudice by the Charges thereof.</p>
+            <p>Secondly, For the Quenching of conſiderable Fires, a numerous Aſſiſtance <hi>ordered</hi> by <hi>Authority</hi> is requiſite, for otherwiſe the more Company the leſs Help. Now the <hi>City</hi> have the Magiſtracy, who by Law are impowred to command Conſtables, Offi<g ref="char:EOLhyphen"/>cers, and Private Citizens, as they ſhall judge moſt uſeful.</p>
+            <p>Thirdly, If the <hi>City</hi> become the Inſurers, not only the Magiſtrate, but every Pri<g ref="char:EOLhyphen"/>vate Citizen will be more diligent and induſtrious for the Quenching of Fire; for eve<g ref="char:EOLhyphen"/>ry man will then conſider, That the ſpreading of the Fire will not only be a loſs to thoſe particular Perſons whoſe Houſes are in danger, but the Revenues of the City in General would be impaired by it, which potent Argument would be loſt, if Private men Inſure.</p>
+            <p>Fourthly, The City hath no reaſon to intruſt a matter of this Conſequence within their own Walls, in the hands of Foreigners, and perhaps Enemies to the City, tho indeed Friends to themſelves.</p>
+            <p>Fifthly, The Chief Magiſtrates of the City are Sworn <hi>Surely and ſafely to keep the City,</hi> it is therefore an affront to them for any to take their work out of their hands, as if they were not ſufficient to Secure the City, but Foreigners muſt be called in to do it<g ref="char:punc">▪</g>
+            </p>
+            <p>Sixthly, Suppoſe the Lord Mayor and other Magiſtrates, ſhould think fit for the Common Safety to blow up a Houſe which happens to be Inſured by Private men, and theſe Private Undertakers minding their private Advantage ſhould be of another mind: on this Competition may enſue Quarrelling, Blows, and Blood-ſhed, and the two Parties concern'd be more zealous in oppoſing one another, than the Fire.</p>
+            <p>The Fourth and laſt Reaſon, why I would have the City and not theſe Private Perſons Inſure, is, becauſe it can be no prejudice either to the Citizens in particular, or the City in general to do it. Not to the Citizens, in particular, for as to what the Author of the <hi>Letter concerning Inſuring, &amp;c.</hi> objects <hi>about the Magiſtrates being liable to be byaſt in the exerciſe of their Power in blowing up Houſes.</hi> I ſhall only ſay, He reflects upon the Prudence and Juſtice of the Magiſtrates of this City; beſides, the Magi<g ref="char:EOLhyphen"/>ſtrates are impowred to blow-up Houſes when they ſee occaſion, whether the City In<g ref="char:EOLhyphen"/>ſure, or no; and though the City doth Inſure, yet the Magiſtrates will have no private Advantage themſelves by it: ſo that there is no reaſon to think they will be byaſt in one caſe more than in another. And whereas <hi>the Author of the Letter</hi> Inſinuates, <hi>as if the City might hereafter put ſome unreaſonable Tax upon Inſuring Houſes,</hi> I ſhall only ſay,
+<pb n="4" facs="tcp:36509:3" rendition="simple:additions"/>the City hath already ſet bounds to it ſelf in that caſe, by giving the particulars of the prizes both of Brick and Timber-Houſes, either for a ſhorter or longer time, or for Ever (a thing which theſe Private Undertakers are not capable of doing) whereby they have tied up themſelves from a poſſibility of enhancing their Prizes, if they had a mind to it: And that the City ſhould be ſuppoſed to make a prey of it ſelf by ſcrewing up the Prizes, is to me as ridiculouſly as it is inſolently objected.</p>
+            <p>Thus the Citizens in Particular will not be prejudiced if the City Inſure, neither will the City in General receive any damage by it. I know <hi>the Enquirer</hi> indeed pre<g ref="char:EOLhyphen"/>tends <hi>a great difficulty in raiſing and ſetling the Fund.</hi> But the City have already in their hands all the firſt Fund of Ground-Rents and Lands to the value of One hundred Thouſand Pounds, and can as eaſily make them over to the Truſtees, as any Private Perſon can make over his Eſtate. And all the Difficulties mentioned by the <hi>Enquirer,</hi> as to <hi>the great number of Houſes, that muſt be Inſured to raiſe Twenty Thouſand Pounds for a further purchaſe of Ground-Rents, the uncertainty of finding out a Purchaſe, or the Owners ſetting too high a Price upon them,</hi> will lie as heavy upon theſe Private Gentlemen as upon the City; and whatever good opinion they may have of themſelves, I can<g ref="char:EOLhyphen"/>not but believe that the City is far more able to conquer a Difficulty than they.</p>
+            <p>But further, the <hi>Enquirer</hi> objects, <hi>'Twill be a matter, if not of difficulty, yet of ill Con<g ref="char:EOLhyphen"/>ſequence, for the City to Inſure,</hi> which he endeavours to prove by Three Arguments.</p>
+            <p>Firſt, <hi>This will leſſen the Security of the</hi> Chamber <hi>for the payment of the Orphans Por<g ref="char:EOLhyphen"/>tions, and the ſame ſettlement of a Fund may be juſtly expected, and cannot be juſtly denied them.</hi> But,
+(1) All beſides this Enquirer know, that the Orphans Portions are in<g ref="char:EOLhyphen"/>truſted in the <hi>Chamber of London</hi> barely upon its own Credit (which it hath never forfeited) and that neither the Ground-Rents nor any other of the City Lands, are, or ever were ingaged for their Security; neither, if the <hi>Chamber</hi> ſhould fail, (which I hope our Enquirer will not be ſo Inſolent ſo much as to ſuppoſe it will) are they liable to make any Satisfaction. And, (2) 'Tis as well known the <hi>Chamber of London</hi> never <hi>deſired</hi> the Orphans Money, the keeping thereof being a conſtant Charge and Trouble, but no Advantage to them; and therefore if the Relations of the Orphans will but give good Security, the <hi>Chamber</hi> never covets to have the Orphans Money paid in to them, neither could they, if ſo minded, oblige the Relations thereto.</p>
+            <p>Secondly, The <hi>Enquirer</hi> objects, <hi>If the City ever ſhould have occaſton of borrowing Money, thoſe that lend it will expect as good Security as is offer'd by the City in this Caſe of Inſuring, and not be content with the Security of the Seal only, eſpecially when 'tis publickly known, that a great part of this City Lands are engaged for this uſe.</hi> But I Anſwer,
+(1) Whatever occaſion the City had of borrowing Money as yet, theſe Ground-Rents were never ingaged for it, ſo that when theſe Ground-Rents are ingaged upon this deſign; the City can ſtill give as good Security as ever yet it had need to give, (2) The raiſing and ſetling this Fund will rather ſtrengthen than leſſen the Security of the City, becauſe 'tis agreed on by all hands, that this matter will be profitable more or leſs to the Undertaker, or elſe it may reaſonably be concluded theſe Private Perſons would never have ingaged in it.
+But in the</p>
+            <p>Third and Laſt place, The <hi>Enquirer</hi> objects, <hi>That if the City ſhould Inſure, it would be an Imitation of their Pattern.</hi> This I cannot but ſmile at, becauſe 'tis ſo notorious as I intimated in the begining of this Letter, they have <hi>borrowed</hi> this Deſign from the City, though they have the face to deny it, and aſcribe it to themſelves. But when I conſider the condition of the <hi>Enquirer,</hi> the Principal of theſe Private Inſu<g ref="char:EOLhyphen"/>rancers, I do not think it ſtrange, that he who refuſes to <hi>pay</hi> what he is <hi>indebted</hi> to others, ſhould refuſe to <hi>acknowledge</hi> what he <hi>owes</hi> to you. But whatever he or his Aſſociates may do in this matter, I ſhall never follow their Example, but on all occa<g ref="char:EOLhyphen"/>ſions freely and thankfully own and confeſs thoſe many Obligations which Your Goodneſs hath ſo often laid upon him, who is, <hi>Honoured Sir,</hi>
+            </p>
+            <closer>
+               <signed>Your moſt humble faithful Servant, <hi>L.R.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
